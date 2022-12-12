@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/nav.scss"],"names":[],"mappings":"AAIA,GACI","file":"nav.css","sourcesContent":["// .nav-link{\n//     color: $dark;\n// }\n\nth{\n    font-weight: normal;\n}"]}
